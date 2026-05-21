@@ -60,18 +60,42 @@ st.markdown(f"""
         font-family: 'Poppins', sans-serif !important;
     }}
 
-    /* Sidebar */
+    /* Sidebar background */
     section[data-testid="stSidebar"] {{
         background: linear-gradient(160deg, {PINK_PRIMARY}, {PINK_DEEP}) !important;
     }}
-    section[data-testid="stSidebar"] * {{
-        color: white !important;
-    }}
-    section[data-testid="stSidebar"] .stSelectbox label,
-    section[data-testid="stSidebar"] .stMultiSelect label,
-    section[data-testid="stSidebar"] .stSlider label {{
+    /* Label & teks di sidebar */
+    section[data-testid="stSidebar"] label,
+    section[data-testid="stSidebar"] p,
+    section[data-testid="stSidebar"] h2,
+    section[data-testid="stSidebar"] h3,
+    section[data-testid="stSidebar"] .stMarkdown {{
         color: white !important;
         font-weight: 500 !important;
+    }}
+    /* Dropdown & multiselect box — putih agar teks terbaca */
+    section[data-testid="stSidebar"] div[data-baseweb="select"] > div:first-child {{
+        background-color: rgba(255,255,255,0.95) !important;
+        border: 2px solid rgba(255,255,255,0.5) !important;
+        border-radius: 10px !important;
+        color: {PINK_DEEP} !important;
+    }}
+    /* Teks pilihan dalam dropdown */
+    section[data-testid="stSidebar"] div[data-baseweb="select"] span,
+    section[data-testid="stSidebar"] div[data-baseweb="select"] input {{
+        color: {PINK_DEEP} !important;
+    }}
+    /* Tag multiselect */
+    section[data-testid="stSidebar"] span[data-baseweb="tag"] {{
+        background-color: {PINK_PALE} !important;
+        color: {PINK_DEEP} !important;
+    }}
+    section[data-testid="stSidebar"] span[data-baseweb="tag"] span {{
+        color: {PINK_DEEP} !important;
+    }}
+    /* Slider nilai */
+    section[data-testid="stSidebar"] div[data-testid="stSlider"] p {{
+        color: white !important;
     }}
 
     /* Metric card */
@@ -186,19 +210,30 @@ def set_pink_style():
     })
 
 # ── LOAD DATA (BigQuery atau Cache CSV) ──────────────────────────────────────
-@st.cache_data(show_spinner="⏳ Memuat data dari BigQuery...")
+@st.cache_data(show_spinner="⏳ Memuat data...")
 def load_data():
     """
-    Coba koneksi BigQuery. Jika gagal (tidak ada credentials),
-    gunakan data dummy supaya dashboard tetap bisa dijalankan lokal.
+    Prioritas load data:
+    1. CSV lokal (world_bank_education.csv) — paling cepat, untuk GitHub/lokal
+    2. BigQuery — jika CSV tidak ada dan credentials tersedia
+    3. Data dummy — fallback terakhir
     """
+    import os
+
+    # ── 1. Coba baca CSV lokal ──────────────────────────────────────────
+    csv_path = "world_bank_education.csv"
+    if os.path.exists(csv_path):
+        df = pd.read_csv(csv_path)
+        return df, "CSV Lokal (world_bank_education.csv)"
+
+    # ── 2. Coba BigQuery ────────────────────────────────────────────────
     try:
         from google.cloud import bigquery
         PROJECT_ID = "adbc-495202"   # ← Ganti sesuai project ID kamu
         client = bigquery.Client(project=PROJECT_ID)
 
         query = """
-        SELECT e.country_name, e.country_code, e.indicator_name, e.indicator_code,
+        SELECT e.country_name, e.country_code, e.indicator_code,
                e.value, e.year,
                c.region, c.income_group
         FROM `bigquery-public-data.world_bank_intl_education.international_education` e
@@ -214,8 +249,8 @@ def load_data():
         df = client.query(query).to_dataframe()
         return df, "BigQuery"
     except Exception as e:
-        # Fallback: data dummy untuk demo lokal
-        return _generate_dummy_data(), f"Demo (BigQuery gagal: {str(e)[:60]})"
+        # ── 3. Fallback dummy ───────────────────────────────────────────
+        return _generate_dummy_data(), f"Demo (letakkan world_bank_education.csv di folder yang sama)"
 
 
 def _generate_dummy_data():
