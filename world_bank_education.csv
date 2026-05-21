@@ -1,0 +1,2346 @@
+country_name,country_code,indicator_code,value,year,region,income_group
+Aruba,ABW,SE.PRM.ENRR,105.22,2011,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,110.8,2000,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,111.0,2002,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,115.22,2007,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,97.25,2004,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,94.65,2008,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,98.8,1999,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,30.9,2006,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,38.74,2011,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,16.41,2014,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,26.76,2003,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,6.81,2013,Latin America & Caribbean,High income
+Afghanistan,AFG,SE.PRM.ENRR,28.68,1991,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,106.45,2008,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,104.17,2005,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,111.26,2004,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,31.18,1989,South Asia,Low income
+Afghanistan,AFG,SE.SEC.ENRR,18.66,2004,South Asia,Low income
+Afghanistan,AFG,SE.SEC.ENRR,16.31,1991,South Asia,Low income
+Afghanistan,AFG,SE.SEC.ENRR,13.46,1985,South Asia,Low income
+Afghanistan,AFG,SE.SEC.ENRR,40.22,2008,South Asia,Low income
+Afghanistan,AFG,SE.SEC.ENRR,16.53,1993,South Asia,Low income
+Afghanistan,AFG,SE.SEC.ENRR,13.45,1978,South Asia,Low income
+Afghanistan,AFG,SE.TER.ENRR,1.26,2004,South Asia,Low income
+Afghanistan,AFG,SE.TER.ENRR,8.66,2014,South Asia,Low income
+Afghanistan,AFG,SE.ADT.LITR.ZS,31.74,2011,South Asia,Low income
+Afghanistan,AFG,SE.XPD.TOTL.GD.ZS,1.9,1981,South Asia,Low income
+Afghanistan,AFG,SE.XPD.TOTL.GD.ZS,3.48,2013,South Asia,Low income
+Angola,AGO,SE.PRM.ENRR,72.11,1974,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.PRM.ENRR,71.93,1991,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.PRM.ENRR,81.67,1987,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.PRM.ENRR,82.01,1989,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,11.0,1991,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,12.43,1992,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,10.05,1983,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,10.08,1988,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,23.55,2008,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.TER.ENRR,0.57,1990,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.ADT.LITR.ZS,66.03,2014,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.XPD.TOTL.GD.ZS,4.62,1985,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.XPD.TOTL.GD.ZS,2.86,2006,Sub-Saharan Africa,Lower middle income
+Chad,TCD,SE.PRM.ENRR,38.43,1987,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,48.42,1996,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,78.18,2008,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,49.63,1990,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,39.46,1986,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,34.67,1985,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,2.18,1974,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,1.9,1971,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,23.13,2011,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,14.79,2003,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,2.38,1975,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,2.06,1972,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,22.4,2012,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,8.11,1995,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,0.01,1972,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,1.42,2005,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,1.95,2008,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,0.17,1974,Sub-Saharan Africa,Low income
+Chad,TCD,SE.XPD.TOTL.GD.ZS,2.21,2012,Sub-Saharan Africa,Low income
+Chad,TCD,SE.XPD.TOTL.GD.ZS,2.85,2013,Sub-Saharan Africa,Low income
+Cuba,CUB,SE.PRM.ENRR,102.26,2009,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,104.22,1983,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,100.07,1993,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,100.58,2008,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,116.23,1972,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,100.64,2001,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,102.43,2010,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,97.55,2015,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,103.75,1982,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,98.06,1991,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,81.03,1984,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,76.12,1995,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,83.43,1986,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,116.86,2009,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,19.92,1986,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,49.4,2013,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,15.66,1978,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,7.0,1974,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,119.78,2008,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,19.72,1992,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,7.7,2000,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,9.94,2003,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,7.07,1993,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,10.56,2005,Latin America & Caribbean,Upper middle income
+Chad,TCD,SE.PRM.ENRR,32.48,1974,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,53.52,1992,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,101.4,2013,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,82.54,2009,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,53.66,1997,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,66.33,2001,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,5.83,1989,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,12.51,2001,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,9.57,1998,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,5.66,1987,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,0.56,1996,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,2.22,2011,Sub-Saharan Africa,Low income
+Chad,TCD,SE.ADT.LITR.ZS,22.31,2016,Sub-Saharan Africa,Low income
+Chad,TCD,SE.ADT.LITR.ZS,28.38,2004,Sub-Saharan Africa,Low income
+Chad,TCD,SE.ADT.LITR.ZS,26.0,2015,Sub-Saharan Africa,Low income
+Cuba,CUB,SE.PRM.ENRR,120.79,1977,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,99.84,2012,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,101.32,2000,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,84.67,1987,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,84.89,1993,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,92.64,2005,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,91.93,2012,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,59.69,1978,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,82.09,1985,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,94.03,2006,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,10.29,1976,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,15.75,1983,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,16.31,1994,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,21.13,1990,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,6.33,1973,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.ADT.LITR.ZS,99.8,2002,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,8.37,1980,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,7.14,1991,Latin America & Caribbean,Upper middle income
+Albania,ALB,SE.PRM.ENRR,104.78,2012,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,103.92,1985,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,99.97,1992,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,107.73,1998,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,104.53,1995,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,103.47,2001,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,75.02,2003,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,90.2,1980,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,33.4,2009,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,13.91,1971,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,62.71,2014,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,5.93,1983,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,9.29,1992,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.ADT.LITR.ZS,98.71,2001,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.XPD.TOTL.GD.ZS,3.06,2003,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.XPD.TOTL.GD.ZS,3.16,2006,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.XPD.TOTL.GD.ZS,3.24,1997,Europe & Central Asia,Upper middle income
+Andorra,AND,SE.PRM.ENRR,88.61,1975,Europe & Central Asia,High income
+Andorra,AND,SE.XPD.TOTL.GD.ZS,3.25,2015,Europe & Central Asia,High income
+Andorra,AND,SE.XPD.TOTL.GD.ZS,1.7,2002,Europe & Central Asia,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,93.35,1982,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,104.06,2006,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,96.43,1998,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,102.38,1993,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,94.61,1983,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.SEC.ENRR,69.72,1992,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.SEC.ENRR,55.89,1982,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.SEC.ENRR,32.38,1978,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.SEC.ENRR,19.36,1973,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.TER.ENRR,6.53,1990,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.TER.ENRR,4.42,1983,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.TER.ENRR,1.61,1980,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.TER.ENRR,5.75,1984,Middle East & North Africa,High income
+Fiji,FJI,SE.PRM.ENRR,106.94,1995,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,102.1,1985,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,103.75,1999,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,109.99,1971,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,112.33,1972,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,106.76,1979,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,105.54,2015,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,108.72,1991,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,78.77,1998,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,78.34,1999,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,80.75,1992,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,74.02,1978,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,15.95,2004,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,1.97,1974,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,15.78,2003,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,1.5,1973,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,11.79,1991,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,5.51,1998,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,5.15,1999,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,4.17,2011,East Asia & Pacific,Upper middle income
+Guam,GUM,SE.ADT.LITR.ZS,99.37,1990,East Asia & Pacific,High income
+Iraq,IRQ,SE.PRM.ENRR,108.12,2007,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,101.87,1986,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,105.15,1982,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,102.01,1983,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,103.15,1987,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,84.45,1996,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,53.46,2007,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,37.56,2001,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,34.62,1999,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,24.55,1972,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,48.06,1984,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,9.21,1981,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,9.66,1982,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,5.54,1973,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.ADT.LITR.ZS,43.68,2013,Middle East & North Africa,Upper middle income
+Chad,TCD,SE.PRM.ENRR,31.75,1972,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,32.33,1975,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,75.35,2004,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,94.0,2012,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,46.3,1995,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,32.38,1971,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,70.06,2002,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,21.0,2008,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,10.07,1999,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,18.54,2007,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,22.65,2010,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,0.83,2000,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,2.01,2009,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,0.39,1985,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,0.83,2001,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,2.1,2010,Sub-Saharan Africa,Low income
+Chad,TCD,SE.XPD.TOTL.GD.ZS,1.59,2004,Sub-Saharan Africa,Low income
+Chad,TCD,SE.XPD.TOTL.GD.ZS,2.65,2000,Sub-Saharan Africa,Low income
+Chad,TCD,SE.XPD.TOTL.GD.ZS,2.31,2009,Sub-Saharan Africa,Low income
+Cuba,CUB,SE.PRM.ENRR,102.0,1999,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,101.02,1989,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,102.21,1985,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,99.71,1990,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,102.6,1987,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,98.87,2005,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,55.59,1977,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,86.23,1988,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,91.89,2010,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,89.11,1990,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,80.5,1999,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,89.1,2002,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,85.34,2001,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,99.67,2014,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,91.19,2004,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,88.2,1992,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,91.58,2009,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,28.82,1974,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,100.4,2015,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,12.83,1997,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,16.17,1981,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,82.5,2011,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,13.75,1995,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,8.48,1975,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,87.65,2006,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,107.45,2007,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,6.21,1998,Latin America & Caribbean,Upper middle income
+Chad,TCD,SE.PRM.ENRR,47.45,1994,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,59.58,1998,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,71.9,2005,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,82.61,2010,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,61.12,1999,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,71.94,2003,Sub-Saharan Africa,Low income
+Chad,TCD,SE.PRM.ENRR,45.51,1988,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,13.41,2002,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,8.77,1997,Sub-Saharan Africa,Low income
+Chad,TCD,SE.SEC.ENRR,8.46,1996,Sub-Saharan Africa,Low income
+Chad,TCD,SE.TER.ENRR,0.2,1977,Sub-Saharan Africa,Low income
+Chad,TCD,SE.ADT.LITR.ZS,25.65,2000,Sub-Saharan Africa,Low income
+Chad,TCD,SE.XPD.TOTL.GD.ZS,3.23,1999,Sub-Saharan Africa,Low income
+Chad,TCD,SE.XPD.TOTL.GD.ZS,1.69,2005,Sub-Saharan Africa,Low income
+Chad,TCD,SE.XPD.TOTL.GD.ZS,2.43,2001,Sub-Saharan Africa,Low income
+Chad,TCD,SE.XPD.TOTL.GD.ZS,1.65,1998,Sub-Saharan Africa,Low income
+Cuba,CUB,SE.PRM.ENRR,101.83,1988,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,105.95,1981,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,99.64,1992,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,104.97,1996,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,98.44,2003,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,99.23,2006,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,100.05,2007,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,104.49,1997,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,101.36,2011,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,101.24,1995,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.PRM.ENRR,100.44,2002,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,93.33,2008,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,92.44,2011,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,80.82,1997,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,78.82,1981,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,93.92,2007,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,79.18,1994,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.SEC.ENRR,78.3,1983,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,25.58,2001,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,36.28,2015,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,16.4,1979,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,27.35,2002,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,54.39,2004,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,13.13,1998,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,33.14,2003,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,20.64,1999,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,22.36,2000,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,21.77,1989,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.TER.ENRR,41.0,2014,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,5.62,1994,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,9.57,2002,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,14.06,2008,Latin America & Caribbean,Upper middle income
+Cuba,CUB,SE.XPD.TOTL.GD.ZS,12.84,2010,Latin America & Caribbean,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,105.14,1997,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,105.28,1981,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,116.83,1974,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,107.53,2007,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,101.76,1984,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,115.35,1976,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,115.61,1973,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,79.07,2001,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,71.79,1980,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,3.13,1985,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,0.68,1970,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,5.62,2001,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,5.85,2007,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,4.83,1989,East Asia & Pacific,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,104.64,1979,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,104.4,2004,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,74.95,1973,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,41.18,1993,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,50.51,1986,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,38.76,1977,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,49.25,1985,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,12.79,2002,Middle East & North Africa,Upper middle income
+Mali,MLI,SE.PRM.ENRR,47.59,1997,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,36.39,1994,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,76.13,2013,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,6.22,1988,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,6.78,1990,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,7.56,1984,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,10.66,1995,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,12.19,1997,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,11.2,1996,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.64,1989,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.98,1986,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.71,1982,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,1.08,1984,Sub-Saharan Africa,Low income
+Mali,MLI,SE.ADT.LITR.ZS,33.07,2015,Sub-Saharan Africa,Low income
+Mali,MLI,SE.ADT.LITR.ZS,31.1,2010,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,3.42,2008,Sub-Saharan Africa,Low income
+Oman,OMN,SE.PRM.ENRR,80.59,1989,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,94.02,2001,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,106.83,2012,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,93.48,2008,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,86.11,1994,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,41.11,1977,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,72.65,1986,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,91.09,2007,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,0.19,1973,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,97.88,2013,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,51.6,1992,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,68.28,1996,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,18.4,1983,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,86.91,2003,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,0.02,1981,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,0.08,1984,Middle East & North Africa,High income
+Oman,OMN,SE.ADT.LITR.ZS,91.98,2014,Middle East & North Africa,High income
+Oman,OMN,SE.ADT.LITR.ZS,86.94,2010,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,4.02,2001,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,3.2,2000,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,2.84,1990,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,2.98,1989,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,3.51,1993,Middle East & North Africa,High income
+Peru,PER,SE.PRM.ENRR,117.56,1982,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,117.77,1990,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,118.03,2004,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,101.44,2012,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,113.88,1986,Latin America & Caribbean,Upper middle income
+United Arab Emirates,ARE,SE.ADT.LITR.ZS,71.24,1985,Middle East & North Africa,High income
+Argentina,ARG,SE.PRM.ENRR,119.35,2007,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,106.78,1977,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,106.36,1987,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,117.36,2000,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,106.08,1986,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,105.86,1976,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,106.89,1980,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,105.56,1984,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.SEC.ENRR,65.22,1984,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.SEC.ENRR,106.78,2014,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.SEC.ENRR,69.99,1987,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.SEC.ENRR,103.6,2011,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.SEC.ENRR,68.73,1994,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,79.99,2013,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,63.79,2005,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,23.88,1977,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,66.35,2007,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,28.84,1984,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,13.41,1970,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,23.96,1982,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,15.37,1971,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,62.23,2002,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.ADT.LITR.ZS,98.09,2015,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,1.78,1973,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,4.01,2002,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,1.17,1976,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,2.61,1980,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,3.84,2005,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,5.33,2014,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,1.94,1978,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,1.05,1989,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,4.58,2000,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,4.99,2010,Latin America & Caribbean,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,107.53,1992,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,70.39,1981,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,58.85,1972,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,71.23,1983,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,64.36,1974,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,69.79,1976,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,71.68,1984,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,90.85,2004,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,55.01,1971,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,91.01,2006,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,78.34,2000,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,82.35,2002,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,1.22,1972,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,2.37,1980,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,2.72,1982,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,4.25,2008,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,6.16,2004,East Asia & Pacific,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,106.65,1981,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,90.13,1978,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,38.84,1996,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,49.89,1983,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,27.48,1973,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,10.87,1987,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,6.09,1974,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,15.93,2004,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,12.09,2000,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,8.27,1979,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,5.21,1972,Middle East & North Africa,Upper middle income
+Armenia,ARM,SE.PRM.ENRR,98.47,2015,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.PRM.ENRR,94.62,2004,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.PRM.ENRR,94.73,1994,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.PRM.ENRR,102.47,1991,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.PRM.ENRR,102.58,1993,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.PRM.ENRR,98.53,2000,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.SEC.ENRR,91.06,2005,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.SEC.ENRR,88.5,2015,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.SEC.ENRR,93.89,2006,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.SEC.ENRR,91.32,1991,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.SEC.ENRR,95.06,1994,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.SEC.ENRR,92.71,2008,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.SEC.ENRR,88.32,2004,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,25.42,1991,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,25.41,1992,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,19.02,1995,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,34.86,2000,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,16.82,1996,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,44.31,2015,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,17.57,1986,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.XPD.TOTL.GD.ZS,2.48,2004,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.XPD.TOTL.GD.ZS,1.85,1996,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.XPD.TOTL.GD.ZS,3.17,2008,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.XPD.TOTL.GD.ZS,2.25,2014,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.XPD.TOTL.GD.ZS,2.24,1999,Europe & Central Asia,Upper middle income
+Antigua and Barbuda,ATG,SE.PRM.ENRR,91.78,1974,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.PRM.ENRR,86.98,1977,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.PRM.ENRR,100.14,1992,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.PRM.ENRR,109.15,1995,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.SEC.ENRR,105.39,2012,Latin America & Caribbean,High income
+Australia,AUS,SE.PRM.ENRR,104.71,1974,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,104.98,2007,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,101.88,2004,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,100.26,1999,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,104.86,1986,East Asia & Pacific,High income
+Australia,AUS,SE.SEC.ENRR,137.56,2014,East Asia & Pacific,High income
+Australia,AUS,SE.SEC.ENRR,131.92,1994,East Asia & Pacific,High income
+Australia,AUS,SE.SEC.ENRR,136.88,2012,East Asia & Pacific,High income
+Australia,AUS,SE.SEC.ENRR,162.61,2000,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,17.03,1971,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,19.5,1973,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,24.34,1977,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,26.9,1984,East Asia & Pacific,High income
+Mali,MLI,SE.PRM.ENRR,24.53,1984,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,67.1,2003,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,51.48,1998,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,55.69,1999,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,78.59,2007,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,26.99,1977,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,33.18,1993,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,36.2,2009,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,7.48,1983,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,5.41,1974,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,14.98,1999,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,17.3,2000,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,23.75,2004,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.14,1971,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,1.46,1997,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.33,1974,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,2.06,2001,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.49,1976,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,5.32,2008,Sub-Saharan Africa,Low income
+Mali,MLI,SE.ADT.LITR.ZS,24.0,2003,Sub-Saharan Africa,Low income
+Mali,MLI,SE.ADT.LITR.ZS,9.43,1976,Sub-Saharan Africa,Low income
+Mali,MLI,SE.ADT.LITR.ZS,33.56,2011,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,2.23,1999,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,2.65,1998,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,3.87,2009,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,3.53,2005,Sub-Saharan Africa,Low income
+Oman,OMN,SE.PRM.ENRR,25.94,1974,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,81.98,1990,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,63.51,1984,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,92.37,1999,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,37.19,1976,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,48.73,1980,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,44.7,1978,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,88.69,2005,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,89.68,1997,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,47.43,1979,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,88.53,2005,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,101.89,2011,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,46.79,1991,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,4.47,1991,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,0.02,1980,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,0.01,1979,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,0.83,1986,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,5.36,1994,Middle East & North Africa,High income
+Oman,OMN,SE.ADT.LITR.ZS,93.04,2015,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,3.86,2006,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,3.79,1986,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,3.12,1992,Middle East & North Africa,High income
+Peru,PER,SE.PRM.ENRR,121.3,2000,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,121.02,1998,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,113.78,1978,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,101.42,2014,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,109.67,1974,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,116.59,1993,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,118.53,1994,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,112.89,2008,Latin America & Caribbean,Upper middle income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,5.25,1994,East Asia & Pacific,High income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,5.1,2011,East Asia & Pacific,High income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,5.09,2009,East Asia & Pacific,High income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,5.89,1979,East Asia & Pacific,High income
+Austria,AUT,SE.PRM.ENRR,100.23,2009,Europe & Central Asia,High income
+Austria,AUT,SE.PRM.ENRR,101.39,2002,Europe & Central Asia,High income
+Austria,AUT,SE.PRM.ENRR,101.28,1973,Europe & Central Asia,High income
+Austria,AUT,SE.PRM.ENRR,104.29,1991,Europe & Central Asia,High income
+Austria,AUT,SE.PRM.ENRR,100.16,1974,Europe & Central Asia,High income
+Austria,AUT,SE.PRM.ENRR,99.58,1977,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,93.91,1985,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,106.77,1995,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,105.0,1992,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,100.47,2006,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,99.68,2004,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,105.29,1997,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,98.85,2000,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,49.41,2006,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,37.66,1992,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,46.42,2003,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,12.21,1971,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,49.65,1997,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,27.85,1987,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,23.98,1984,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,26.74,1986,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.28,1996,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.12,1991,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.54,2002,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,4.67,1974,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.27,2005,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.38,1987,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.32,1992,Europe & Central Asia,High income
+Azerbaijan,AZE,SE.PRM.ENRR,107.71,1993,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,95.48,1999,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,118.57,1986,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,94.77,2007,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,106.6,2015,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,110.46,1994,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,94.07,2008,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,96.21,2003,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.SEC.ENRR,73.52,1996,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.SEC.ENRR,96.89,1986,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,20.44,2012,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,17.2,1997,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,23.84,1981,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,23.97,1989,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,23.65,1991,Europe & Central Asia,Upper middle income
+Peru,PER,SE.PRM.ENRR,112.78,1979,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,110.37,2010,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,112.75,1980,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,119.18,1996,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,95.74,2015,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,62.41,1985,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,65.07,1992,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,41.87,1973,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,67.09,1990,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,47.96,1976,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,90.52,2007,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,95.21,2011,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,28.19,1988,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,39.02,1999,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,33.25,2004,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,13.19,1976,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,14.71,1977,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.ADT.LITR.ZS,93.84,2012,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.87,2010,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,3.11,1996,Latin America & Caribbean,Upper middle income
+Togo,TGO,SE.PRM.ENRR,92.82,1990,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,128.37,2010,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,96.07,1992,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,105.13,1979,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,112.08,1997,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,98.18,1983,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,114.97,2001,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,113.56,2004,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,116.6,2006,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,84.31,1975,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,78.7,1973,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,17.7,1976,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,8.35,1972,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,38.94,2002,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,19.28,1989,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,9.33,1973,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,31.67,1980,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,45.03,2005,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,26.44,1983,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,1.43,1979,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,10.63,2015,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,0.75,1973,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,2.49,1994,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,2.02,1981,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,4.44,2011,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,3.63,2004,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,4.13,2009,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,4.41,1996,Sub-Saharan Africa,Low income
+Peru,PER,SE.SEC.ENRR,94.7,2010,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,66.33,1991,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,66.85,1989,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,85.45,2005,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,87.55,2001,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,64.91,1993,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,57.77,1980,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,72.61,1997,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,84.58,2004,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,55.56,1978,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,28.12,1993,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,26.79,1994,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,31.92,1991,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,29.59,1989,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,21.27,1984,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,31.53,1992,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,31.19,2001,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,9.83,1971,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.ADT.LITR.ZS,93.71,2014,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.ADT.LITR.ZS,87.91,2005,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.ADT.LITR.ZS,81.92,1981,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.92,2012,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.66,2011,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.63,2007,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.96,2004,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.82,2002,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,3.03,2001,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,3.98,2015,Latin America & Caribbean,Upper middle income
+Togo,TGO,SE.PRM.ENRR,66.64,1971,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,110.7,2007,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,119.64,1999,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,112.89,2000,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,128.71,2013,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,103.68,1982,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,24.05,1997,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,25.19,1978,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,30.11,1982,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,21.7,1984,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,20.17,1992,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,18.54,1987,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,54.71,2011,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,32.12,2000,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,0.48,1971,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,2.34,1989,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,5.67,2007,Sub-Saharan Africa,Low income
+Togo,TGO,SE.ADT.LITR.ZS,60.41,2011,Sub-Saharan Africa,Low income
+Togo,TGO,SE.ADT.LITR.ZS,63.75,2015,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,5.39,1984,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,4.43,2010,Sub-Saharan Africa,Low income
+Aruba,ABW,SE.PRM.ENRR,114.24,2006,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,113.78,2009,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,116.11,2013,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,97.02,2011,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,37.76,2012,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,28.07,1999,Latin America & Caribbean,High income
+Afghanistan,AFG,SE.PRM.ENRR,34.29,1976,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,33.5,1988,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,33.31,1998,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,36.63,1978,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,102.23,2009,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,32.21,1971,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,104.69,2007,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,26.69,1986,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,24.7,1985,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,33.44,1974,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,48.54,1981,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,105.52,2010,South Asia,Low income
+Afghanistan,AFG,SE.PRM.ENRR,111.88,2015,South Asia,Low income
+Afghanistan,AFG,SE.SEC.ENRR,13.05,2001,South Asia,Low income
+Afghanistan,AFG,SE.SEC.ENRR,30.08,2007,South Asia,Low income
+Afghanistan,AFG,SE.SEC.ENRR,12.68,1984,South Asia,Low income
+Afghanistan,AFG,SE.TER.ENRR,2.2,1986,South Asia,Low income
+Afghanistan,AFG,SE.TER.ENRR,1.74,1982,South Asia,Low income
+Afghanistan,AFG,SE.TER.ENRR,1.75,1978,South Asia,Low income
+Afghanistan,AFG,SE.TER.ENRR,1.88,1979,South Asia,Low income
+Afghanistan,AFG,SE.XPD.TOTL.GD.ZS,3.46,2010,South Asia,Low income
+Afghanistan,AFG,SE.XPD.TOTL.GD.ZS,1.84,1980,South Asia,Low income
+Afghanistan,AFG,SE.XPD.TOTL.GD.ZS,3.44,2011,South Asia,Low income
+Angola,AGO,SE.PRM.ENRR,149.04,1980,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.PRM.ENRR,130.81,1981,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.PRM.ENRR,78.26,1990,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.PRM.ENRR,111.16,2009,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.PRM.ENRR,121.18,1982,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,11.18,1989,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,12.19,1980,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,12.5,1984,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.XPD.TOTL.GD.ZS,2.61,2000,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.XPD.TOTL.GD.ZS,2.59,1998,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.XPD.TOTL.GD.ZS,2.78,2005,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.XPD.TOTL.GD.ZS,6.12,1987,Sub-Saharan Africa,Lower middle income
+Albania,ALB,SE.PRM.ENRR,101.76,1987,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,97.53,2009,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,102.73,1983,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,112.22,1979,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,101.56,2002,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,115.0,1978,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,112.49,2014,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.PRM.ENRR,99.82,1990,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,87.06,1982,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,82.03,1983,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,71.66,1998,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,77.92,1992,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,72.91,2001,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,69.67,1997,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,85.34,1985,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,73.0,2002,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,96.43,2014,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,84.98,1976,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,92.74,2012,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.SEC.ENRR,90.85,2011,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,5.19,1981,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,15.97,2001,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,11.19,1993,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,16.81,2003,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,30.65,2007,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,13.59,1998,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.TER.ENRR,8.86,1991,Europe & Central Asia,Upper middle income
+Mali,MLI,SE.PRM.ENRR,27.19,1990,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,75.79,2015,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,83.96,2011,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,29.64,1992,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,4.47,1971,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,6.1,1987,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,29.94,2007,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,7.47,1977,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,8.23,1992,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,8.34,1993,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,9.1,1979,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,9.52,1994,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,38.77,2010,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,6.74,1976,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,4.6,1972,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,7.2,1991,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,8.96,1980,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,43.51,2014,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.94,1995,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.86,1980,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,1.87,1999,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.59,1977,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,1.43,1998,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,6.04,2010,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,0.64,1991,Sub-Saharan Africa,Low income
+Mali,MLI,SE.ADT.LITR.ZS,26.18,2006,Sub-Saharan Africa,Low income
+Mali,MLI,SE.ADT.LITR.ZS,19.04,1998,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,3.74,2014,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,3.45,1981,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,3.48,2012,Sub-Saharan Africa,Low income
+Oman,OMN,SE.PRM.ENRR,85.39,1992,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,68.61,1985,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,109.28,2015,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,90.78,1998,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,88.26,1996,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,58.52,1983,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,25.12,1985,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,99.65,2012,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,56.94,1993,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,4.47,1978,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,85.41,2002,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,65.39,1995,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,7.78,1998,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,6.02,1996,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,0.32,1985,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,4.12,1990,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,1.7,1987,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,0.01,1982,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,6.62,1997,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,3.52,2005,Middle East & North Africa,High income
+Peru,PER,SE.PRM.ENRR,118.94,2003,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,105.68,1972,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,119.84,1985,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,120.89,2001,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,113.46,1976,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,120.46,2002,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,43.16,1974,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,91.05,2008,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,45.33,1975,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,88.07,2006,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,65.34,1988,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,68.74,1994,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,50.62,1977,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,34.32,2006,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,19.87,1981,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,33.18,2005,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,20.68,1983,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,20.12,1982,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,25.3,1986,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,12.46,1974,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,26.47,1987,Latin America & Caribbean,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,105.44,1980,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.PRM.ENRR,105.84,2002,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,74.33,1979,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,87.87,2008,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,88.67,2012,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,52.05,1970,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.SEC.ENRR,86.04,2003,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,5.14,1989,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.TER.ENRR,2.57,1984,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,6.49,1983,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,4.5,2009,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,6.24,2002,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,5.12,2005,East Asia & Pacific,Upper middle income
+Fiji,FJI,SE.XPD.TOTL.GD.ZS,5.82,1981,East Asia & Pacific,Upper middle income
+Guam,GUM,SE.ADT.LITR.ZS,96.42,1980,East Asia & Pacific,High income
+Iraq,IRQ,SE.PRM.ENRR,96.5,2000,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,97.65,1999,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,76.68,1974,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,73.12,1972,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,103.55,1988,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.PRM.ENRR,102.43,1984,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,37.47,2000,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,47.5,1988,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,54.45,1982,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,29.94,1974,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,49.08,1987,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.SEC.ENRR,53.32,1981,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,10.36,1985,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,8.39,1977,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.TER.ENRR,9.57,1984,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.ADT.LITR.ZS,74.05,2000,Middle East & North Africa,Upper middle income
+Iraq,IRQ,SE.XPD.TOTL.GD.ZS,2.42,1980,Middle East & North Africa,Upper middle income
+Mali,MLI,SE.PRM.ENRR,23.41,1971,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,28.18,1979,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,25.95,1982,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,65.63,2002,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,73.23,2005,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,57.44,2000,Sub-Saharan Africa,Low income
+Mali,MLI,SE.PRM.ENRR,26.26,1976,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,6.08,1975,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,6.81,1985,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,21.91,2003,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,8.24,1982,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,41.31,2015,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,7.1,1981,Sub-Saharan Africa,Low income
+Mali,MLI,SE.SEC.ENRR,33.31,2008,Sub-Saharan Africa,Low income
+Mali,MLI,SE.TER.ENRR,1.1,1985,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,3.76,2011,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,2.9,2002,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,3.34,2010,Sub-Saharan Africa,Low income
+Mali,MLI,SE.XPD.TOTL.GD.ZS,3.39,2013,Sub-Saharan Africa,Low income
+Oman,OMN,SE.PRM.ENRR,51.18,1981,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,104.55,2011,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,53.99,1982,Middle East & North Africa,High income
+Oman,OMN,SE.PRM.ENRR,91.23,2003,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,2.12,1977,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,68.4,1997,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,0.39,1974,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,74.74,1999,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,101.11,2009,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,83.22,2001,Middle East & North Africa,High income
+Oman,OMN,SE.SEC.ENRR,88.4,2006,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,5.12,1993,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,3.26,1989,Middle East & North Africa,High income
+Oman,OMN,SE.TER.ENRR,6.28,1995,Middle East & North Africa,High income
+Oman,OMN,SE.ADT.LITR.ZS,81.36,2003,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,4.03,2004,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,3.9,2003,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,3.66,1987,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,4.01,1999,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,4.96,2013,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,4.33,2002,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,3.36,1997,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,2.99,1991,Middle East & North Africa,High income
+Oman,OMN,SE.XPD.TOTL.GD.ZS,4.11,1998,Middle East & North Africa,High income
+Azerbaijan,AZE,SE.XPD.TOTL.GD.ZS,2.44,2011,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.XPD.TOTL.GD.ZS,4.21,1999,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.XPD.TOTL.GD.ZS,3.5,2001,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.XPD.TOTL.GD.ZS,3.15,2002,Europe & Central Asia,Upper middle income
+Burundi,BDI,SE.PRM.ENRR,100.04,2006,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,67.33,1990,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,64.21,1993,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,126.07,2009,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,45.35,1984,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,65.21,1992,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.SEC.ENRR,5.22,1990,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.SEC.ENRR,27.9,2012,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.SEC.ENRR,1.76,1974,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.SEC.ENRR,2.13,1975,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.TER.ENRR,0.24,1974,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.TER.ENRR,0.74,1988,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.TER.ENRR,0.46,1980,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.TER.ENRR,0.63,1987,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.XPD.TOTL.GD.ZS,3.01,2002,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.XPD.TOTL.GD.ZS,2.65,2000,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.XPD.TOTL.GD.ZS,3.49,1991,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.XPD.TOTL.GD.ZS,5.42,2013,Sub-Saharan Africa,Low income
+Albania,ALB,SE.ADT.LITR.ZS,97.25,2012,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.XPD.TOTL.GD.ZS,3.26,1994,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.XPD.TOTL.GD.ZS,2.98,1996,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.XPD.TOTL.GD.ZS,3.38,1999,Europe & Central Asia,Upper middle income
+Albania,ALB,SE.XPD.TOTL.GD.ZS,3.24,2005,Europe & Central Asia,Upper middle income
+Andorra,AND,SE.SEC.ENRR,25.94,1975,Europe & Central Asia,High income
+Andorra,AND,SE.SEC.ENRR,15.37,1971,Europe & Central Asia,High income
+Andorra,AND,SE.SEC.ENRR,49.39,1983,Europe & Central Asia,High income
+Andorra,AND,SE.XPD.TOTL.GD.ZS,2.07,2007,Europe & Central Asia,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,85.68,1975,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,90.14,2000,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,103.16,1996,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,99.66,1997,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,93.91,1979,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,91.59,1980,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,98.02,1978,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,95.01,1976,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,104.96,1995,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,109.39,1990,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,106.71,2014,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.PRM.ENRR,99.11,2003,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.SEC.ENRR,59.28,1988,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.SEC.ENRR,61.71,1987,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.SEC.ENRR,59.76,1989,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.SEC.ENRR,59.42,1983,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.SEC.ENRR,20.44,1975,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.TER.ENRR,7.96,1988,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.TER.ENRR,6.87,1985,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.TER.ENRR,6.44,1992,Middle East & North Africa,High income
+United Arab Emirates,ARE,SE.TER.ENRR,8.06,1986,Middle East & North Africa,High income
+Aruba,ABW,SE.PRM.ENRR,112.2,1999,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,111.38,2005,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,99.09,2003,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,97.36,2006,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,102.55,2007,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,111.17,2012,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,97.99,2001,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,35.36,2009,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,26.7,2002,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,37.36,2010,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,6.55,2012,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,4.92,2008,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,6.71,2010,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,4.68,2005,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,4.4,1999,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,4.41,2004,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,5.92,2009,Latin America & Caribbean,High income
+Benin,BEN,SE.PRM.ENRR,69.44,1995,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,124.35,2013,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,61.28,1988,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,128.98,2015,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,81.2,2000,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,62.29,1987,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,5.17,1972,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,8.24,1975,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,21.61,2000,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,54.17,2013,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,18.7,1985,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.06,1996,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,13.42,2012,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,5.78,2005,Sub-Saharan Africa,Low income
+Benin,BEN,SE.ADT.LITR.ZS,34.66,2002,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,3.24,2001,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,5.03,2010,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,3.5,2006,Sub-Saharan Africa,Low income
+Peru,PER,SE.ADT.LITR.ZS,94.17,2016,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,3.29,2013,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,3.27,1998,Latin America & Caribbean,Upper middle income
+Togo,TGO,SE.PRM.ENRR,81.94,1974,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,91.04,1989,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,103.71,1995,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,125.85,2009,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,111.48,2008,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,29.61,1999,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,44.03,2007,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,18.59,1985,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,42.61,2004,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,6.95,1971,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,9.13,2010,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,10.16,2011,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,2.9,1992,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,1.77,1982,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,2.88,1995,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,1.13,1976,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,1.6,1980,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,3.99,1998,Sub-Saharan Africa,Low income
+Belgium,BEL,SE.PRM.ENRR,101.84,2006,Europe & Central Asia,High income
+Belgium,BEL,SE.PRM.ENRR,105.8,1979,Europe & Central Asia,High income
+Belgium,BEL,SE.PRM.ENRR,101.02,1995,Europe & Central Asia,High income
+Belgium,BEL,SE.PRM.ENRR,105.76,1976,Europe & Central Asia,High income
+Belgium,BEL,SE.PRM.ENRR,101.09,1989,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,102.3,1988,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,82.47,1976,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,166.81,2015,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,153.78,2001,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,88.48,1979,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,82.19,1972,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,105.7,2009,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,164.81,2014,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,102.88,1990,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,82.96,1974,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,26.34,1982,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,25.26,1979,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,73.32,2014,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,61.4,2005,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,71.24,2012,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,17.38,1972,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,56.7,1999,Europe & Central Asia,High income
+Belgium,BEL,SE.XPD.TOTL.GD.ZS,5.35,1979,Europe & Central Asia,High income
+Belgium,BEL,SE.XPD.TOTL.GD.ZS,5.88,2003,Europe & Central Asia,High income
+Belgium,BEL,SE.XPD.TOTL.GD.ZS,5.28,1982,Europe & Central Asia,High income
+Belgium,BEL,SE.XPD.TOTL.GD.ZS,5.78,2005,Europe & Central Asia,High income
+Belgium,BEL,SE.XPD.TOTL.GD.ZS,4.27,1988,Europe & Central Asia,High income
+Benin,BEN,SE.PRM.ENRR,45.83,1975,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,98.79,2006,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,61.9,1986,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,75.38,1997,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,64.05,1982,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,56.81,2015,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,28.35,2004,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,16.08,1986,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,47.68,2011,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.12,1990,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.27,1992,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.05,1993,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,15.36,2013,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.38,1986,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,1.85,1983,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,7.79,2008,Sub-Saharan Africa,Low income
+Benin,BEN,SE.ADT.LITR.ZS,27.25,1992,Sub-Saharan Africa,Low income
+Benin,BEN,SE.ADT.LITR.ZS,28.7,2006,Sub-Saharan Africa,Low income
+Aruba,ABW,SE.SEC.ENRR,95.82,2010,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,95.93,2005,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,6.04,2011,Latin America & Caribbean,High income
+Benin,BEN,SE.PRM.ENRR,78.32,1998,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,57.78,1991,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,50.4,1978,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,89.1,2001,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,60.76,1989,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,66.19,1994,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,114.87,2009,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,41.14,1973,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,49.59,1977,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,10.75,1979,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,4.29,1971,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,18.2,1982,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,20.9,1983,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.42,1991,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,6.64,2006,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,9.87,2009,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,4.46,2001,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.09,1995,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,1.05,1980,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,0.13,1971,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,13.26,2010,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,0.98,1977,Sub-Saharan Africa,Low income
+Benin,BEN,SE.ADT.LITR.ZS,32.95,2012,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,3.12,2003,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,3.51,2004,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,4.22,2009,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,2.95,2002,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,2.74,1998,Sub-Saharan Africa,Low income
+Peru,PER,SE.PRM.ENRR,113.23,1977,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,108.23,1973,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,111.41,1975,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,103.11,2013,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,105.34,1971,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.PRM.ENRR,117.47,2005,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,69.6,1995,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,93.4,2009,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,84.7,2000,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,39.93,1972,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,71.91,1996,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,59.68,1983,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,97.9,2013,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,63.41,1986,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,64.42,1987,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.SEC.ENRR,82.38,1999,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,17.33,1980,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,13.11,1975,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,16.03,1979,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.TER.ENRR,31.59,2002,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.ADT.LITR.ZS,87.67,2004,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.ADT.LITR.ZS,89.59,2007,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.94,2003,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,3.39,1973,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.84,2005,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.87,2008,Latin America & Caribbean,Upper middle income
+Peru,PER,SE.XPD.TOTL.GD.ZS,2.66,2006,Latin America & Caribbean,Upper middle income
+Togo,TGO,SE.PRM.ENRR,87.44,1984,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,98.04,1991,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,113.47,1998,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,107.84,1980,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,92.45,1994,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,114.58,2003,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,72.36,1972,Sub-Saharan Africa,Low income
+Togo,TGO,SE.PRM.ENRR,87.41,1987,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,19.93,1994,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,34.86,2001,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,10.91,1974,Sub-Saharan Africa,Low income
+Togo,TGO,SE.SEC.ENRR,47.01,2006,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,2.9,1996,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,2.31,1988,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,10.12,2014,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,10.68,2013,Sub-Saharan Africa,Low income
+Togo,TGO,SE.TER.ENRR,0.8,1975,Sub-Saharan Africa,Low income
+Togo,TGO,SE.ADT.LITR.ZS,57.09,2009,Sub-Saharan Africa,Low income
+Togo,TGO,SE.ADT.LITR.ZS,56.89,2006,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,4.19,2001,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,2.11,1970,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,5.87,1981,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,4.72,1987,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,4.87,2014,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,4.01,2002,Sub-Saharan Africa,Low income
+Togo,TGO,SE.XPD.TOTL.GD.ZS,5.22,2015,Sub-Saharan Africa,Low income
+Chile,CHL,SE.PRM.ENRR,106.28,1988,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,108.11,2002,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,108.76,2008,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,123.66,1975,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,128.84,1971,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,107.4,1990,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,108.99,2006,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,80.26,1997,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,117.89,1979,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,109.71,1984,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,108.37,1999,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,81.2,1998,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,80.02,1989,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,93.79,2011,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,74.74,1985,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,64.15,1981,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,95.37,2004,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,97.66,2007,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,44.76,2004,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,14.61,1975,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,14.86,1983,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,61.87,2009,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,30.44,1996,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,37.31,1999,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,11.16,1971,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,8.98,1970,Latin America & Caribbean,High income
+Chile,CHL,SE.ADT.LITR.ZS,98.55,2009,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.49,2004,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.23,2005,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,2.36,1990,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.91,1974,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,4.42,1980,Latin America & Caribbean,High income
+China,CHN,SE.PRM.ENRR,119.85,1993,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,112.77,1981,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,113.38,1984,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,110.09,2012,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,110.72,1979,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,94.3,2015,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,33.09,1986,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,60.8,2002,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,61.26,1999,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,37.99,1971,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,31.45,1985,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,68.45,2006,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,58.39,1997,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,0.99,1979,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,24.87,2011,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,22.52,2009,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,5.0,1996,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,20.94,2008,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,30.16,2013,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,9.95,2001,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,27.18,2012,East Asia & Pacific,Upper middle income
+China,CHN,SE.ADT.LITR.ZS,95.12,2010,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.85,1996,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.65,1992,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.89,1999,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,2.04,1982,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.91,1980,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,2.01,1985,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.84,1995,East Asia & Pacific,Upper middle income
+Aruba,ABW,SE.PRM.ENRR,113.74,2010,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,104.06,2012,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,110.84,2004,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,109.4,2001,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,100.51,2002,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,96.72,2009,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,29.06,2001,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,16.2,2013,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,15.27,2015,Latin America & Caribbean,High income
+Aruba,ABW,SE.ADT.LITR.ZS,97.29,2000,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,4.92,2002,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,4.74,2001,Latin America & Caribbean,High income
+Benin,BEN,SE.PRM.ENRR,39.38,1974,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,65.88,1993,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,59.83,1981,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,98.55,2005,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,71.8,1996,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,19.84,1984,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,9.13,1977,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,14.9,1987,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,25.29,2002,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,12.24,1980,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,20.79,1999,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,7.9,2007,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,1.09,1978,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,3.68,2000,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,0.96,1979,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,1.92,1984,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,5.26,2002,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,0.43,1973,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,4.32,2014,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,2.62,1999,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,4.55,2013,Sub-Saharan Africa,Low income
+Aruba,ABW,SE.PRM.ENRR,113.08,2008,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,109.21,2003,Latin America & Caribbean,High income
+Aruba,ABW,SE.PRM.ENRR,117.32,2014,Latin America & Caribbean,High income
+Aruba,ABW,SE.SEC.ENRR,96.49,2000,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,33.93,2007,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,35.24,2008,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,29.66,2000,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,31.68,2005,Latin America & Caribbean,High income
+Aruba,ABW,SE.TER.ENRR,26.3,2004,Latin America & Caribbean,High income
+Aruba,ABW,SE.ADT.LITR.ZS,96.82,2010,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,4.71,2000,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,6.16,2014,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,4.76,1998,Latin America & Caribbean,High income
+Aruba,ABW,SE.XPD.TOTL.GD.ZS,4.8,2007,Latin America & Caribbean,High income
+Benin,BEN,SE.PRM.ENRR,116.29,2010,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,63.77,1985,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,122.77,2012,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,57.76,1980,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,110.03,2008,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,125.56,2014,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,97.84,2003,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,47.6,1976,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,56.39,1979,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,23.38,2001,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,26.58,2003,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,6.37,1973,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,12.37,2011,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,5.87,2004,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.26,1987,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,1.71,1982,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,0.71,1974,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,0.24,1972,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,1.44,1981,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,0.68,1975,Sub-Saharan Africa,Low income
+Benin,BEN,SE.ADT.LITR.ZS,16.48,1979,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,3.23,2007,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,2.89,2000,Sub-Saharan Africa,Low income
+Chile,CHL,SE.PRM.ENRR,106.68,2003,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,106.76,2009,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,128.88,1972,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,112.68,1983,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,101.73,2012,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,110.49,2004,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,102.4,1996,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,108.93,2000,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,96.46,1992,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,53.55,1971,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,28.32,1995,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,49.99,2005,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,33.77,1998,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,15.1,1973,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,17.64,1987,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,69.67,2010,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,15.46,1984,Latin America & Caribbean,High income
+Chile,CHL,SE.ADT.LITR.ZS,94.29,1992,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,2.64,1995,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.79,1975,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.79,2008,Latin America & Caribbean,High income
+China,CHN,SE.PRM.ENRR,128.38,1987,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,123.29,1975,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,108.3,1971,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,104.13,2015,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,112.47,2010,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,109.37,2007,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,39.64,1991,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,57.4,1976,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,89.08,2011,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,42.8,1992,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,48.59,1974,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,30.13,1984,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,20.84,2007,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,3.03,1989,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,0.35,1974,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,15.64,2003,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,23.95,2010,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,1.82,1981,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,3.67,1994,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,5.98,1998,East Asia & Pacific,Upper middle income
+China,CHN,SE.ADT.LITR.ZS,65.51,1982,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.61,1972,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.8,1987,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.76,1974,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.75,1977,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.99,1994,East Asia & Pacific,Upper middle income
+Chile,CHL,SE.PRM.ENRR,103.6,1992,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,119.23,1976,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,117.68,1977,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,106.37,1998,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,127.34,1974,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,100.19,2013,Latin America & Caribbean,High income
+Chile,CHL,SE.PRM.ENRR,122.18,1970,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,98.33,2006,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,90.64,2002,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,100.65,2015,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,76.88,1986,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,77.19,1990,Latin America & Caribbean,High income
+Chile,CHL,SE.SEC.ENRR,87.1,2000,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,11.41,1979,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,13.4,1982,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,26.41,1993,Latin America & Caribbean,High income
+Chile,CHL,SE.TER.ENRR,37.15,2000,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.85,2003,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,4.75,2014,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,2.88,1996,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.02,2006,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.0,1987,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,4.56,2013,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.84,1999,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,3.44,1998,Latin America & Caribbean,High income
+Chile,CHL,SE.XPD.TOTL.GD.ZS,4.92,2015,Latin America & Caribbean,High income
+China,CHN,SE.PRM.ENRR,123.27,1976,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,109.12,1996,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,112.5,1983,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,113.95,2009,East Asia & Pacific,Upper middle income
+China,CHN,SE.PRM.ENRR,118.64,1985,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,60.9,2001,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,28.22,1970,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,80.61,2009,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,39.56,1981,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,45.74,1993,East Asia & Pacific,Upper middle income
+China,CHN,SE.SEC.ENRR,72.58,2007,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,20.5,2006,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,3.12,1988,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,3.16,1987,East Asia & Pacific,Upper middle income
+China,CHN,SE.TER.ENRR,2.93,1993,East Asia & Pacific,Upper middle income
+China,CHN,SE.ADT.LITR.ZS,90.92,2000,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.66,1993,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.76,1988,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,2.15,1979,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,1.71,1975,East Asia & Pacific,Upper middle income
+China,CHN,SE.XPD.TOTL.GD.ZS,2.08,1983,East Asia & Pacific,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,105.94,1972,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,112.98,2012,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,118.76,2002,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,114.77,2011,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,109.99,2014,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,105.65,1970,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,106.31,1974,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.PRM.ENRR,118.84,2006,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.SEC.ENRR,93.71,2007,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.SEC.ENRR,70.45,1988,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.SEC.ENRR,70.21,1985,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,26.72,1975,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,21.24,1978,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,23.18,1981,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,35.65,1985,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,64.81,2003,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.TER.ENRR,82.92,2014,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.ADT.LITR.ZS,96.13,1991,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,4.83,2001,Latin America & Caribbean,Upper middle income
+Argentina,ARG,SE.XPD.TOTL.GD.ZS,4.04,1998,Latin America & Caribbean,Upper middle income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,4.36,2015,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,4.87,2012,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,46.44,2001,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,14.12,1975,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,21.84,1983,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,33.72,1991,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,30.32,1988,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,58.33,2005,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,62.07,2006,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,1.63,1974,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,1.28,1971,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,1.32,1972,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,2.48,1980,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,3.81,1985,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,0.23,1979,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,0.76,1990,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,0.05,1973,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,0.54,1984,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,2.44,2006,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,0.64,1987,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.ADT.LITR.ZS,23.55,2005,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.XPD.TOTL.GD.ZS,1.96,1980,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.XPD.TOTL.GD.ZS,1.68,1978,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.XPD.TOTL.GD.ZS,1.75,1983,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.XPD.TOTL.GD.ZS,4.45,2006,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.XPD.TOTL.GD.ZS,4.05,2012,Sub-Saharan Africa,Low income
+Bangladesh,BGD,SE.PRM.ENRR,111.88,2011,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,79.17,1976,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,120.74,2013,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,102.66,2010,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,74.95,1973,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,73.71,1977,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,16.76,1979,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,46.84,2004,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,46.87,2007,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,53.53,2012,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,46.72,1999,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,13.44,2014,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,13.39,2012,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,4.84,1986,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,4.58,1983,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,2.78,1976,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,7.68,2007,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,5.46,1999,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,3.73,1982,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,4.98,1985,South Asia,Lower middle income
+Gabon,GAB,SE.PRM.ENRR,142.18,1975,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,146.05,1982,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,143.45,1997,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,145.79,1995,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,138.96,1971,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,146.61,1984,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,140.57,1973,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,41.59,1995,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,27.76,1975,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.TER.ENRR,7.18,1999,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.TER.ENRR,5.45,1989,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.TER.ENRR,5.45,1984,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.TER.ENRR,8.13,2001,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.XPD.TOTL.GD.ZS,3.41,1998,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.XPD.TOTL.GD.ZS,3.08,1999,Sub-Saharan Africa,Upper middle income
+Ghana,GHA,SE.PRM.ENRR,80.13,1995,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,86.01,2000,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,78.87,1982,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,81.35,1999,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,73.45,1989,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,106.67,2011,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,79.91,1993,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,65.02,1975,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,64.74,1974,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,36.66,2003,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,48.35,2008,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,57.08,2011,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,57.94,2014,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,39.89,1981,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,15.89,2014,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,12.18,2012,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,0.69,1971,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,0.98,1991,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.ADT.LITR.ZS,57.9,2000,Sub-Saharan Africa,Lower middle income
+Armenia,ARM,SE.TER.ENRR,22.47,1997,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,41.77,2006,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,46.6,2008,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,33.1,1998,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,43.91,2012,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.TER.ENRR,35.24,2002,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.XPD.TOTL.GD.ZS,2.77,2012,Europe & Central Asia,Upper middle income
+Armenia,ARM,SE.XPD.TOTL.GD.ZS,2.81,2015,Europe & Central Asia,Upper middle income
+Antigua and Barbuda,ATG,SE.PRM.ENRR,102.8,2009,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.PRM.ENRR,97.05,2015,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.PRM.ENRR,124.13,2000,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.PRM.ENRR,97.89,2012,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.SEC.ENRR,83.63,1976,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.SEC.ENRR,77.87,2000,Latin America & Caribbean,High income
+Antigua and Barbuda,ATG,SE.XPD.TOTL.GD.ZS,3.45,2002,Latin America & Caribbean,High income
+Australia,AUS,SE.PRM.ENRR,110.22,1972,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,108.88,1981,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,100.5,1998,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,110.23,1980,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,101.27,2003,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,101.15,2002,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,102.21,2015,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,105.32,1993,East Asia & Pacific,High income
+Australia,AUS,SE.PRM.ENRR,108.45,1976,East Asia & Pacific,High income
+Australia,AUS,SE.SEC.ENRR,157.54,1999,East Asia & Pacific,High income
+Australia,AUS,SE.SEC.ENRR,148.37,2005,East Asia & Pacific,High income
+Australia,AUS,SE.SEC.ENRR,155.08,1998,East Asia & Pacific,High income
+Australia,AUS,SE.SEC.ENRR,127.39,2006,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,25.56,1982,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,15.77,1970,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,23.18,1975,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,71.7,2004,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,24.91,1979,East Asia & Pacific,High income
+Australia,AUS,SE.TER.ENRR,65.06,1993,East Asia & Pacific,High income
+Gabon,GAB,SE.PRM.ENRR,136.79,2001,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,145.8,1983,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,141.99,2011,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,49.7,1997,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,30.35,1982,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,37.22,1989,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,47.87,1999,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,37.42,1987,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,33.53,1984,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,37.99,1986,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.TER.ENRR,2.54,1979,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.TER.ENRR,2.16,1976,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.TER.ENRR,1.46,1974,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.XPD.TOTL.GD.ZS,3.83,2000,Sub-Saharan Africa,Upper middle income
+Ghana,GHA,SE.PRM.ENRR,79.95,1991,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,76.48,1983,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,66.46,1973,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,73.69,1979,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,69.86,1976,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,106.46,2014,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,42.54,2006,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,49.82,2009,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,40.29,1973,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,39.15,1980,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,37.47,1985,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,39.38,1988,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,37.38,1987,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,35.66,2000,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,1.0,1975,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,6.52,2007,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,1.33,1994,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,5.26,2006,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,5.26,2006,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,6.1,2013,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,5.35,2001,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,3.31,1987,Sub-Saharan Africa,Lower middle income
+Gabon,GAB,SE.PRM.ENRR,138.98,2003,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,135.97,1992,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,144.86,1976,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.PRM.ENRR,148.54,1989,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,14.57,1971,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,20.21,1973,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,53.3,2002,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.SEC.ENRR,16.39,1972,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.ADT.LITR.ZS,72.23,1993,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.XPD.TOTL.GD.ZS,3.01,2012,Sub-Saharan Africa,Upper middle income
+Gabon,GAB,SE.XPD.TOTL.GD.ZS,2.81,1992,Sub-Saharan Africa,Upper middle income
+Ghana,GHA,SE.PRM.ENRR,65.49,1972,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,77.71,1981,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.PRM.ENRR,80.77,2001,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,36.5,1975,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,36.89,1977,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,37.78,1974,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,35.84,1995,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.SEC.ENRR,35.41,1999,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,1.1,1976,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,1.11,1992,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,1.31,1993,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.TER.ENRR,16.23,2015,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,7.92,2012,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,5.76,2008,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,1.9,1982,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,8.14,2011,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,2.31,1979,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,7.42,2005,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,3.35,1986,Sub-Saharan Africa,Lower middle income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,4.9,2012,East Asia & Pacific,High income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,4.67,1990,East Asia & Pacific,High income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,5.13,1995,East Asia & Pacific,High income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,4.75,1989,East Asia & Pacific,High income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,4.63,2008,East Asia & Pacific,High income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,4.65,2007,East Asia & Pacific,High income
+Australia,AUS,SE.XPD.TOTL.GD.ZS,4.89,2000,East Asia & Pacific,High income
+Austria,AUT,SE.PRM.ENRR,101.12,1987,Europe & Central Asia,High income
+Austria,AUT,SE.PRM.ENRR,102.54,1996,Europe & Central Asia,High income
+Austria,AUT,SE.PRM.ENRR,96.88,1979,Europe & Central Asia,High income
+Austria,AUT,SE.PRM.ENRR,103.93,1999,Europe & Central Asia,High income
+Austria,AUT,SE.PRM.ENRR,99.84,2010,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,92.09,1984,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,98.94,2013,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,98.59,1999,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,99.69,2009,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,92.5,1981,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,101.36,1990,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,106.48,1993,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,97.24,1986,Europe & Central Asia,High income
+Austria,AUT,SE.SEC.ENRR,98.86,2010,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,21.39,1980,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,52.48,1998,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,39.83,1993,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,45.05,1995,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,72.31,2012,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,15.14,1973,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,16.03,1974,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,18.58,1976,Europe & Central Asia,High income
+Austria,AUT,SE.TER.ENRR,60.72,2009,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.26,2006,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.72,2010,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,4.16,1970,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.3,2008,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,5.38,2003,Europe & Central Asia,High income
+Austria,AUT,SE.XPD.TOTL.GD.ZS,6.11,1998,Europe & Central Asia,High income
+Azerbaijan,AZE,SE.PRM.ENRR,98.86,2001,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,106.06,2014,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,94.52,1997,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,92.93,1998,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.PRM.ENRR,100.5,2013,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.SEC.ENRR,88.04,1993,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.SEC.ENRR,88.52,1992,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,19.05,2008,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,18.75,1994,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,25.11,1988,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,17.83,1995,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,19.26,2010,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.TER.ENRR,19.79,2006,Europe & Central Asia,Upper middle income
+Haiti,HTI,SE.PRM.ENRR,78.3,1993,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,99.26,1996,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,89.14,1986,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,53.56,1973,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,74.51,1981,Latin America & Caribbean,Low income
+Haiti,HTI,SE.SEC.ENRR,17.08,1984,Latin America & Caribbean,Low income
+Haiti,HTI,SE.TER.ENRR,1.03,1986,Latin America & Caribbean,Low income
+India,IND,SE.PRM.ENRR,89.55,1988,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,94.65,1994,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,78.87,1971,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,86.77,1983,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,91.83,1990,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,92.89,1999,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,91.83,1992,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,37.41,1986,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,37.12,1988,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,25.82,1976,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,24.5,1972,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,45.48,1996,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,24.97,1973,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,63.29,2010,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,37.29,1989,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,37.03,1987,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,6.04,1991,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,16.1,2009,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,5.02,1973,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,5.01,1976,South Asia,Lower middle income
+India,IND,SE.XPD.TOTL.GD.ZS,3.3,2004,South Asia,Lower middle income
+India,IND,SE.XPD.TOTL.GD.ZS,4.35,1999,South Asia,Lower middle income
+India,IND,SE.XPD.TOTL.GD.ZS,3.09,2006,South Asia,Lower middle income
+Azerbaijan,AZE,SE.ADT.LITR.ZS,99.79,2015,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.XPD.TOTL.GD.ZS,6.06,1992,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.XPD.TOTL.GD.ZS,3.22,2009,Europe & Central Asia,Upper middle income
+Azerbaijan,AZE,SE.XPD.TOTL.GD.ZS,3.38,1998,Europe & Central Asia,Upper middle income
+Burundi,BDI,SE.PRM.ENRR,53.45,1986,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,49.65,1985,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,56.91,2000,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,127.64,2014,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,32.86,1982,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,59.68,2001,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,131.46,2010,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.PRM.ENRR,133.31,2012,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.SEC.ENRR,10.24,2003,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.SEC.ENRR,22.82,2010,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.SEC.ENRR,14.83,2007,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.SEC.ENRR,5.82,1991,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.TER.ENRR,0.74,1989,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.TER.ENRR,0.46,1979,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.TER.ENRR,4.41,2013,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.TER.ENRR,0.3,1976,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.XPD.TOTL.GD.ZS,2.9,2001,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.XPD.TOTL.GD.ZS,4.56,1994,Sub-Saharan Africa,Low income
+Burundi,BDI,SE.XPD.TOTL.GD.ZS,3.35,1981,Sub-Saharan Africa,Low income
+Belgium,BEL,SE.PRM.ENRR,104.24,2001,Europe & Central Asia,High income
+Belgium,BEL,SE.PRM.ENRR,104.68,1975,Europe & Central Asia,High income
+Belgium,BEL,SE.PRM.ENRR,99.83,1987,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,103.56,1992,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,93.68,1983,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,141.96,1993,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,141.38,1999,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,163.1,2013,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,84.2,1977,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,91.29,1981,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,108.35,2005,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,102.7,1989,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,82.57,1973,Europe & Central Asia,High income
+Belgium,BEL,SE.SEC.ENRR,96.6,1984,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,61.96,2006,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,20.46,1974,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,56.24,1996,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,28.22,1984,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,39.92,1991,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,19.43,1973,Europe & Central Asia,High income
+Belgium,BEL,SE.TER.ENRR,61.25,2004,Europe & Central Asia,High income
+Belgium,BEL,SE.XPD.TOTL.GD.ZS,5.84,2001,Europe & Central Asia,High income
+Belgium,BEL,SE.XPD.TOTL.GD.ZS,6.38,2011,Europe & Central Asia,High income
+Belgium,BEL,SE.XPD.TOTL.GD.ZS,6.41,2009,Europe & Central Asia,High income
+Belgium,BEL,SE.XPD.TOTL.GD.ZS,5.96,1977,Europe & Central Asia,High income
+Benin,BEN,SE.PRM.ENRR,60.92,1992,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,37.4,1972,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,63.62,1984,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,50.94,1990,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,94.38,2002,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,101.54,2004,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,118.61,2011,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,78.4,1999,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,34.51,1971,Sub-Saharan Africa,Low income
+Benin,BEN,SE.PRM.ENRR,65.62,1983,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,10.0,1978,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,54.36,2014,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,8.56,1976,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,15.22,1981,Sub-Saharan Africa,Low income
+Benin,BEN,SE.SEC.ENRR,7.1,1974,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,5.82,2003,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.09,1994,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,0.74,1976,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.33,1989,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.19,1988,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,1.98,1985,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,2.51,1997,Sub-Saharan Africa,Low income
+Benin,BEN,SE.TER.ENRR,3.23,1999,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,3.64,2005,Sub-Saharan Africa,Low income
+Benin,BEN,SE.XPD.TOTL.GD.ZS,3.8,2008,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,47.06,2002,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,73.2,2008,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,12.21,1971,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,77.56,2009,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,25.57,1985,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,29.79,1987,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,14.61,1976,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,32.53,1990,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,15.73,1978,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.PRM.ENRR,31.5,1989,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,14.3,2005,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,6.61,1989,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,16.16,2007,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,8.29,1994,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.SEC.ENRR,2.13,1979,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,0.22,1978,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,1.05,1996,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,0.09,1974,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,0.1,1975,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,1.05,1994,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,1.08,1993,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.TER.ENRR,0.05,1972,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.XPD.TOTL.GD.ZS,1.43,1988,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.XPD.TOTL.GD.ZS,4.6,2007,Sub-Saharan Africa,Low income
+Burkina Faso,BFA,SE.XPD.TOTL.GD.ZS,3.94,2010,Sub-Saharan Africa,Low income
+Bangladesh,BGD,SE.PRM.ENRR,77.75,1989,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,70.57,1982,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,81.05,1990,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,71.77,1983,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,99.77,2009,South Asia,Lower middle income
+Bangladesh,BGD,SE.PRM.ENRR,51.15,1971,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,20.43,1984,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,50.28,2003,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,46.1,2006,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,45.52,2005,South Asia,Lower middle income
+Bangladesh,BGD,SE.SEC.ENRR,49.36,2001,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,6.18,2003,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,3.31,1979,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,3.36,1974,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,3.04,1981,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,2.36,1978,South Asia,Lower middle income
+Bangladesh,BGD,SE.TER.ENRR,7.12,2006,South Asia,Lower middle income
+Bangladesh,BGD,SE.ADT.LITR.ZS,72.76,2016,South Asia,Lower middle income
+Italy,ITA,SE.PRM.ENRR,108.34,1972,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,107.48,1975,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,98.32,1989,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,98.68,1988,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,102.49,2006,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,98.94,1987,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,100.82,1985,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,103.61,2008,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,101.45,2005,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,102.87,2000,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,100.16,1993,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,99.94,1997,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,103.56,1978,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,87.65,1994,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,72.17,1981,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,82.42,1992,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,64.67,1973,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,91.65,1999,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,76.22,1987,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,90.4,1998,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,62.25,1972,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,24.84,1984,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,66.2,2010,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,19.54,1972,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,26.48,1988,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,26.2,1977,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,16.88,1971,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,25.21,1976,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.79,1984,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.53,1999,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.39,2004,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.53,2006,Europe & Central Asia,High income
+Japan,JPN,SE.PRM.ENRR,102.16,1994,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,101.7,1986,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,101.32,2003,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,102.3,2012,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,101.49,2008,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,101.96,2009,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,101.98,2007,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,102.19,2010,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,100.9,1977,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,101.14,1993,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,95.62,1990,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,98.18,1993,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,97.68,1991,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,101.0,1998,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,91.47,1974,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,95.19,1983,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,92.82,1976,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,100.64,2008,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,100.86,1995,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,93.67,1979,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,54.97,2005,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,29.77,1991,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,28.01,1986,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,46.63,1999,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,62.41,2013,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,48.74,2000,East Asia & Pacific,High income
+Haiti,HTI,SE.PRM.ENRR,67.84,1980,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,111.88,1998,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,108.2,1997,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,61.74,1978,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,56.69,1975,Latin America & Caribbean,Low income
+Haiti,HTI,SE.TER.ENRR,0.78,1978,Latin America & Caribbean,Low income
+Haiti,HTI,SE.TER.ENRR,0.61,1977,Latin America & Caribbean,Low income
+Haiti,HTI,SE.ADT.LITR.ZS,34.73,1982,Latin America & Caribbean,Low income
+India,IND,SE.PRM.ENRR,91.54,1991,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,82.65,1976,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,82.57,1980,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,81.42,1978,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,85.23,1977,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,88.38,1984,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,57.48,2007,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,30.4,1981,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,69.16,2012,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,28.95,1980,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,6.29,1996,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,23.89,2013,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,6.35,1987,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,13.19,2007,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,5.54,1988,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,6.01,1986,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,26.87,2015,South Asia,Lower middle income
+India,IND,SE.XPD.TOTL.GD.ZS,3.42,2010,South Asia,Lower middle income
+India,IND,SE.XPD.TOTL.GD.ZS,4.26,2000,South Asia,Lower middle income
+Bangladesh,BGD,SE.XPD.TOTL.GD.ZS,1.43,1991,South Asia,Lower middle income
+Bangladesh,BGD,SE.XPD.TOTL.GD.ZS,1.52,1990,South Asia,Lower middle income
+Bangladesh,BGD,SE.XPD.TOTL.GD.ZS,1.51,1987,South Asia,Lower middle income
+Bangladesh,BGD,SE.XPD.TOTL.GD.ZS,2.05,2008,South Asia,Lower middle income
+Bulgaria,BGR,SE.PRM.ENRR,104.32,2000,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.PRM.ENRR,100.42,1977,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.PRM.ENRR,101.5,2011,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.PRM.ENRR,96.35,1975,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,91.11,1976,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,91.37,2006,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,93.44,1985,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,90.45,2005,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,89.91,1980,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,91.89,1999,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,99.1,1986,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,90.42,2010,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,92.52,1973,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,86.9,2003,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,89.4,2004,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,22.09,1978,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,41.08,1996,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,16.03,1984,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,15.7,1982,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,43.02,2001,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,58.01,2010,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,14.28,1971,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,25.05,1989,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.ADT.LITR.ZS,98.35,2011,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.XPD.TOTL.GD.ZS,4.29,2009,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.XPD.TOTL.GD.ZS,5.26,1992,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.XPD.TOTL.GD.ZS,4.2,2008,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.XPD.TOTL.GD.ZS,3.53,1980,Europe & Central Asia,Upper middle income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,4.9,1983,East Asia & Pacific,High income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,3.51,2000,East Asia & Pacific,High income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,3.67,1994,East Asia & Pacific,High income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,5.67,1988,East Asia & Pacific,High income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,4.11,1973,East Asia & Pacific,High income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,3.7,2012,East Asia & Pacific,High income
+Kenya,KEN,SE.PRM.ENRR,116.06,1981,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,98.26,1991,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,112.3,2008,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,103.32,1988,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,106.34,1974,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,104.07,1977,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,96.06,1993,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,103.89,1989,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,113.27,2009,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.SEC.ENRR,41.12,1987,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.SEC.ENRR,41.0,2002,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.SEC.ENRR,39.31,2000,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.SEC.ENRR,20.22,1974,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.SEC.ENRR,40.46,1988,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.SEC.ENRR,23.93,1976,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.SEC.ENRR,29.26,1982,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.TER.ENRR,2.82,2002,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.TER.ENRR,1.03,1974,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.XPD.TOTL.GD.ZS,3.93,1971,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.XPD.TOTL.GD.ZS,5.27,2015,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.XPD.TOTL.GD.ZS,5.33,2011,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.XPD.TOTL.GD.ZS,5.44,1983,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.XPD.TOTL.GD.ZS,5.39,1980,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.XPD.TOTL.GD.ZS,5.27,2014,Sub-Saharan Africa,Lower middle income
+Libya,LBY,SE.PRM.ENRR,120.2,1976,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.SEC.ENRR,67.99,1981,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.TER.ENRR,61.14,2003,Middle East & North Africa,Upper middle income
+Italy,ITA,SE.PRM.ENRR,100.86,2012,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,108.31,1973,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,103.52,2007,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,101.93,1981,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,101.54,2014,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,102.67,2011,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,99.02,2006,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,74.99,1986,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,88.82,1995,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,100.36,2008,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,98.29,2005,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,29.54,1990,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,20.38,1973,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,40.13,1994,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,66.81,2009,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,62.5,2015,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,65.03,2012,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,46.85,1997,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,26.77,1981,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,48.19,1998,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,3.93,1976,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,3.38,1970,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.47,1996,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.36,2010,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.3,2000,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.18,2013,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.25,2005,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.66,2001,Europe & Central Asia,High income
+Japan,JPN,SE.PRM.ENRR,98.74,1975,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,101.07,1991,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,99.52,1984,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,102.09,2006,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,99.82,1982,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,100.65,1978,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,101.1,2002,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,101.0,2005,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,95.35,1988,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,102.68,2002,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,101.61,2010,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,100.98,2006,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,95.01,1982,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,29.25,1988,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,29.03,1985,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,57.82,2007,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,57.64,2008,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,61.46,2012,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,28.19,1977,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,59.92,2011,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,57.68,2009,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,51.84,2003,East Asia & Pacific,High income
+Libya,LBY,SE.XPD.TOTL.GD.ZS,2.26,1999,Middle East & North Africa,Upper middle income
+Malta,MLT,SE.PRM.ENRR,95.83,1973,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,93.38,2009,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,101.58,1983,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,104.12,1987,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,104.3,1994,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,104.48,1982,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,104.95,1971,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,105.56,2001,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,110.23,1978,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,85.11,1996,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,100.2,2007,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,93.36,2011,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,91.19,2002,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,87.65,1998,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,66.43,1974,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,8.47,1972,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,14.2,1992,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,33.42,2007,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,6.82,1970,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,19.21,1994,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,7.07,1974,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,5.17,1985,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,44.69,2014,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,3.25,1982,Europe & Central Asia,High income
+Malta,MLT,SE.ADT.LITR.ZS,92.36,2005,Europe & Central Asia,High income
+Malta,MLT,SE.ADT.LITR.ZS,93.31,2011,Europe & Central Asia,High income
+Malta,MLT,SE.ADT.LITR.ZS,85.65,1985,Europe & Central Asia,High income
+Malta,MLT,SE.XPD.TOTL.GD.ZS,3.15,1979,Europe & Central Asia,High income
+Malta,MLT,SE.XPD.TOTL.GD.ZS,3.95,2002,Europe & Central Asia,High income
+Malta,MLT,SE.XPD.TOTL.GD.ZS,4.28,1998,Europe & Central Asia,High income
+Malta,MLT,SE.XPD.TOTL.GD.ZS,7.75,2011,Europe & Central Asia,High income
+Nauru,NRU,SE.PRM.ENRR,101.12,2004,East Asia & Pacific,High income
+Nauru,NRU,SE.SEC.ENRR,38.96,2004,East Asia & Pacific,High income
+Nauru,NRU,SE.SEC.ENRR,62.87,2008,East Asia & Pacific,High income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,4.88,1975,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,4.62,1972,Sub-Saharan Africa,Lower middle income
+Ghana,GHA,SE.XPD.TOTL.GD.ZS,5.83,1976,Sub-Saharan Africa,Lower middle income
+Haiti,HTI,SE.PRM.ENRR,60.52,1976,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,52.15,1972,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,81.04,1983,Latin America & Caribbean,Low income
+Haiti,HTI,SE.PRM.ENRR,62.38,1979,Latin America & Caribbean,Low income
+Haiti,HTI,SE.SEC.ENRR,12.83,1982,Latin America & Caribbean,Low income
+Haiti,HTI,SE.SEC.ENRR,11.85,1980,Latin America & Caribbean,Low income
+Haiti,HTI,SE.TER.ENRR,0.63,1976,Latin America & Caribbean,Low income
+India,IND,SE.PRM.ENRR,88.22,1985,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,92.53,1989,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,81.19,1979,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,92.22,1998,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,110.22,2007,South Asia,Lower middle income
+India,IND,SE.PRM.ENRR,94.37,1995,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,26.39,1977,South Asia,Lower middle income
+India,IND,SE.SEC.ENRR,59.79,2009,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,11.54,2006,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,24.37,2012,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,10.73,2005,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,9.55,2000,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,10.22,2002,South Asia,Lower middle income
+India,IND,SE.TER.ENRR,5.88,1984,South Asia,Lower middle income
+Bahrain,BHR,SE.PRM.ENRR,95.75,2005,Middle East & North Africa,High income
+Bahrain,BHR,SE.PRM.ENRR,97.63,2013,Middle East & North Africa,High income
+Bahrain,BHR,SE.PRM.ENRR,105.29,1983,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,91.69,1988,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,97.57,2000,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,99.44,1991,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,105.16,1994,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,85.5,1984,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,97.96,2001,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,92.27,1985,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,58.62,1975,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,98.49,1992,Middle East & North Africa,High income
+Bahrain,BHR,SE.SEC.ENRR,60.38,1976,Middle East & North Africa,High income
+Bahrain,BHR,SE.TER.ENRR,2.24,1975,Middle East & North Africa,High income
+Bahrain,BHR,SE.TER.ENRR,1.43,1972,Middle East & North Africa,High income
+Bahrain,BHR,SE.TER.ENRR,21.65,1999,Middle East & North Africa,High income
+Bahrain,BHR,SE.TER.ENRR,22.79,2006,Middle East & North Africa,High income
+Bahrain,BHR,SE.TER.ENRR,43.26,2015,Middle East & North Africa,High income
+Bahrain,BHR,SE.XPD.TOTL.GD.ZS,2.87,2006,Middle East & North Africa,High income
+"Bahamas, The",BHS,SE.PRM.ENRR,98.98,1997,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.PRM.ENRR,95.93,1984,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.PRM.ENRR,94.47,1992,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.PRM.ENRR,103.74,2004,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.PRM.ENRR,96.37,1973,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.SEC.ENRR,90.75,1972,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.SEC.ENRR,95.9,1980,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.SEC.ENRR,94.82,1984,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.SEC.ENRR,106.09,1975,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.SEC.ENRR,87.09,1991,Latin America & Caribbean,High income
+"Bahamas, The",BHS,SE.TER.ENRR,15.2,1982,Latin America & Caribbean,High income
+Italy,ITA,SE.PRM.ENRR,104.77,1977,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,102.23,2001,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,101.53,2002,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,101.04,2015,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,107.94,1974,Europe & Central Asia,High income
+Italy,ITA,SE.PRM.ENRR,100.9,1984,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,72.36,1980,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,77.44,1988,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,72.05,1982,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,97.29,2002,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,102.62,2014,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,81.14,1991,Europe & Central Asia,High income
+Italy,ITA,SE.SEC.ENRR,98.18,2003,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,24.84,1987,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,65.77,2006,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,28.06,1989,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,33.83,1992,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,66.44,2008,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,36.03,1993,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,31.78,1991,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,41.55,1995,Europe & Central Asia,High income
+Italy,ITA,SE.TER.ENRR,21.7,1974,Europe & Central Asia,High income
+Italy,ITA,SE.ADT.LITR.ZS,98.42,2001,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.41,2008,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.45,1994,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.75,1993,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.54,2009,Europe & Central Asia,High income
+Italy,ITA,SE.XPD.TOTL.GD.ZS,4.61,1988,Europe & Central Asia,High income
+Japan,JPN,SE.PRM.ENRR,102.0,1997,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,100.97,1981,East Asia & Pacific,High income
+Japan,JPN,SE.PRM.ENRR,100.74,2001,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,92.47,1980,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,88.1,1972,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,101.25,2004,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,95.41,1989,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,102.53,2001,East Asia & Pacific,High income
+Japan,JPN,SE.SEC.ENRR,100.42,2007,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,24.6,1975,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,45.11,1998,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,28.49,1987,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,49.91,2001,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,31.09,1979,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,20.76,1973,East Asia & Pacific,High income
+Japan,JPN,SE.TER.ENRR,31.2,1980,East Asia & Pacific,High income
+Nepal,NPL,SE.PRM.ENRR,119.85,1996,South Asia,Lower middle income
+Nepal,NPL,SE.PRM.ENRR,52.54,1975,South Asia,Lower middle income
+Nepal,NPL,SE.PRM.ENRR,128.13,2007,South Asia,Lower middle income
+Nepal,NPL,SE.PRM.ENRR,88.64,1979,South Asia,Lower middle income
+Nepal,NPL,SE.PRM.ENRR,125.79,2008,South Asia,Lower middle income
+Nepal,NPL,SE.PRM.ENRR,78.65,1978,South Asia,Lower middle income
+Nepal,NPL,SE.PRM.ENRR,79.38,1983,South Asia,Lower middle income
+Nepal,NPL,SE.PRM.ENRR,115.32,2005,South Asia,Lower middle income
+Nepal,NPL,SE.SEC.ENRR,14.08,1977,South Asia,Lower middle income
+Nepal,NPL,SE.SEC.ENRR,12.2,1976,South Asia,Lower middle income
+Nepal,NPL,SE.SEC.ENRR,18.73,1981,South Asia,Lower middle income
+Nepal,NPL,SE.SEC.ENRR,45.6,2007,South Asia,Lower middle income
+Nepal,NPL,SE.TER.ENRR,3.58,1984,South Asia,Lower middle income
+Nepal,NPL,SE.TER.ENRR,14.94,2015,South Asia,Lower middle income
+Nepal,NPL,SE.TER.ENRR,4.79,1994,South Asia,Lower middle income
+Nepal,NPL,SE.TER.ENRR,3.42,1985,South Asia,Lower middle income
+Nepal,NPL,SE.TER.ENRR,3.51,1981,South Asia,Lower middle income
+Nepal,NPL,SE.TER.ENRR,14.4,2010,South Asia,Lower middle income
+Nepal,NPL,SE.ADT.LITR.ZS,59.63,2011,South Asia,Lower middle income
+Nepal,NPL,SE.XPD.TOTL.GD.ZS,3.61,2006,South Asia,Lower middle income
+Nepal,NPL,SE.XPD.TOTL.GD.ZS,3.8,2008,South Asia,Lower middle income
+Nepal,NPL,SE.XPD.TOTL.GD.ZS,3.71,2015,South Asia,Lower middle income
+Niger,NER,SE.PRM.ENRR,55.9,2008,Sub-Saharan Africa,Low income
+Niger,NER,SE.PRM.ENRR,23.57,1982,Sub-Saharan Africa,Low income
+Niger,NER,SE.PRM.ENRR,48.92,2005,Sub-Saharan Africa,Low income
+Niger,NER,SE.PRM.ENRR,24.42,1986,Sub-Saharan Africa,Low income
+Niger,NER,SE.PRM.ENRR,25.11,1988,Sub-Saharan Africa,Low income
+Niger,NER,SE.PRM.ENRR,27.92,1993,Sub-Saharan Africa,Low income
+Niger,NER,SE.PRM.ENRR,32.94,2000,Sub-Saharan Africa,Low income
+Niger,NER,SE.SEC.ENRR,6.24,1990,Sub-Saharan Africa,Low income
+Niger,NER,SE.SEC.ENRR,3.32,1979,Sub-Saharan Africa,Low income
+Niger,NER,SE.SEC.ENRR,11.28,2008,Sub-Saharan Africa,Low income
+Niger,NER,SE.SEC.ENRR,4.83,1983,Sub-Saharan Africa,Low income
+Niger,NER,SE.SEC.ENRR,14.35,2011,Sub-Saharan Africa,Low income
+Niger,NER,SE.TER.ENRR,0.05,1973,Sub-Saharan Africa,Low income
+Niger,NER,SE.XPD.TOTL.GD.ZS,3.74,2010,Sub-Saharan Africa,Low income
+Niger,NER,SE.XPD.TOTL.GD.ZS,2.85,1995,Sub-Saharan Africa,Low income
+Niger,NER,SE.XPD.TOTL.GD.ZS,2.81,1994,Sub-Saharan Africa,Low income
+Bosnia and Herzegovina,BIH,SE.ADT.LITR.ZS,98.14,2011,Europe & Central Asia,Upper middle income
+Bosnia and Herzegovina,BIH,SE.ADT.LITR.ZS,96.99,2013,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.PRM.ENRR,97.35,1972,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.PRM.ENRR,99.95,1979,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.PRM.ENRR,103.62,1981,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.PRM.ENRR,98.93,1971,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.PRM.ENRR,101.34,2015,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,94.73,1977,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,97.76,1982,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,109.53,2009,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,94.81,1974,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,107.03,2014,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,89.63,1971,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,94.95,1975,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,99.04,1986,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,106.31,2011,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.SEC.ENRR,91.05,1972,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.TER.ENRR,47.34,1989,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.TER.ENRR,43.74,1985,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.TER.ENRR,37.81,1980,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.TER.ENRR,48.78,1990,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.TER.ENRR,88.86,2014,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.TER.ENRR,67.08,2005,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.TER.ENRR,52.3,1999,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.ADT.LITR.ZS,99.59,1999,Europe & Central Asia,Upper middle income
+Belarus,BLR,SE.XPD.TOTL.GD.ZS,5.15,2007,Europe & Central Asia,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,123.13,1996,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,108.53,1983,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,111.17,2003,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,113.02,2009,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,113.14,2015,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,115.07,1993,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,80.79,2015,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,57.82,1986,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,76.52,2005,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,70.59,2001,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,78.38,2012,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,80.16,2013,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,75.37,2007,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.TER.ENRR,17.03,2006,Latin America & Caribbean,Upper middle income
+Palau,PLW,SE.PRM.ENRR,102.21,2005,East Asia & Pacific,High income
+Palau,PLW,SE.ADT.LITR.ZS,99.5,2013,East Asia & Pacific,High income
+Palau,PLW,SE.ADT.LITR.ZS,96.59,2015,East Asia & Pacific,High income
+Qatar,QAT,SE.PRM.ENRR,105.08,2004,Middle East & North Africa,High income
+Qatar,QAT,SE.PRM.ENRR,117.07,1981,Middle East & North Africa,High income
+Qatar,QAT,SE.PRM.ENRR,118.79,1983,Middle East & North Africa,High income
+Qatar,QAT,SE.PRM.ENRR,110.52,2003,Middle East & North Africa,High income
+Qatar,QAT,SE.PRM.ENRR,110.46,1985,Middle East & North Africa,High income
+Qatar,QAT,SE.SEC.ENRR,80.69,1992,Middle East & North Africa,High income
+Qatar,QAT,SE.SEC.ENRR,83.8,2014,Middle East & North Africa,High income
+Qatar,QAT,SE.SEC.ENRR,99.1,2005,Middle East & North Africa,High income
+Qatar,QAT,SE.SEC.ENRR,34.93,1971,Middle East & North Africa,High income
+Qatar,QAT,SE.SEC.ENRR,91.67,2009,Middle East & North Africa,High income
+Qatar,QAT,SE.SEC.ENRR,93.98,2006,Middle East & North Africa,High income
+Qatar,QAT,SE.SEC.ENRR,41.01,1973,Middle East & North Africa,High income
+Qatar,QAT,SE.SEC.ENRR,88.75,1993,Middle East & North Africa,High income
+Qatar,QAT,SE.TER.ENRR,9.81,1981,Middle East & North Africa,High income
+Qatar,QAT,SE.TER.ENRR,24.03,1996,Middle East & North Africa,High income
+Qatar,QAT,SE.TER.ENRR,17.27,2004,Middle East & North Africa,High income
+Qatar,QAT,SE.TER.ENRR,17.32,2006,Middle East & North Africa,High income
+Qatar,QAT,SE.TER.ENRR,20.02,1991,Middle East & North Africa,High income
+Qatar,QAT,SE.TER.ENRR,25.11,1998,Middle East & North Africa,High income
+Qatar,QAT,SE.XPD.TOTL.GD.ZS,4.02,2011,Middle East & North Africa,High income
+Qatar,QAT,SE.XPD.TOTL.GD.ZS,4.23,2008,Middle East & North Africa,High income
+Qatar,QAT,SE.XPD.TOTL.GD.ZS,3.61,2014,Middle East & North Africa,High income
+Samoa,WSM,SE.PRM.ENRR,100.32,1986,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.PRM.ENRR,109.37,2005,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.PRM.ENRR,108.6,2006,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.PRM.ENRR,96.58,2000,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.PRM.ENRR,100.11,1995,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.PRM.ENRR,99.35,1996,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.SEC.ENRR,70.21,1977,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.SEC.ENRR,70.78,1978,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.SEC.ENRR,85.71,2012,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.TER.ENRR,7.56,2000,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.TER.ENRR,1.69,1975,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.TER.ENRR,9.09,1998,East Asia & Pacific,Lower middle income
+Samoa,WSM,SE.ADT.LITR.ZS,97.94,1991,East Asia & Pacific,Lower middle income
+Bangladesh,BGD,SE.XPD.TOTL.GD.ZS,1.34,1986,South Asia,Lower middle income
+Bangladesh,BGD,SE.XPD.TOTL.GD.ZS,2.13,2011,South Asia,Lower middle income
+Bangladesh,BGD,SE.XPD.TOTL.GD.ZS,2.12,2000,South Asia,Lower middle income
+Bulgaria,BGR,SE.PRM.ENRR,104.99,2002,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.PRM.ENRR,101.54,2008,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.PRM.ENRR,94.88,1993,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.PRM.ENRR,99.37,2013,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.PRM.ENRR,100.38,2007,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.PRM.ENRR,107.41,1985,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,95.4,1975,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,100.88,2014,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,90.44,1994,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,102.53,1989,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,93.18,2012,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,98.88,2013,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,91.94,1983,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,92.15,1984,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.SEC.ENRR,93.23,1993,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,22.58,1988,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,54.11,2009,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,15.54,1972,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,18.34,1979,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,59.63,2011,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,73.93,2015,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,44.49,2000,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.TER.ENRR,18.74,1986,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.XPD.TOTL.GD.ZS,4.45,1990,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.XPD.TOTL.GD.ZS,3.91,2006,Europe & Central Asia,Upper middle income
+Bulgaria,BGR,SE.XPD.TOTL.GD.ZS,3.4,2001,Europe & Central Asia,Upper middle income
+Spain,ESP,SE.PRM.ENRR,103.16,2005,Europe & Central Asia,High income
+Spain,ESP,SE.PRM.ENRR,106.41,1993,Europe & Central Asia,High income
+Spain,ESP,SE.PRM.ENRR,104.35,1998,Europe & Central Asia,High income
+Spain,ESP,SE.PRM.ENRR,109.15,1984,Europe & Central Asia,High income
+Spain,ESP,SE.PRM.ENRR,104.64,1992,Europe & Central Asia,High income
+Spain,ESP,SE.PRM.ENRR,104.03,2001,Europe & Central Asia,High income
+Spain,ESP,SE.PRM.ENRR,104.48,1990,Europe & Central Asia,High income
+Spain,ESP,SE.SEC.ENRR,82.13,1979,Europe & Central Asia,High income
+Spain,ESP,SE.SEC.ENRR,107.8,1999,Europe & Central Asia,High income
+Spain,ESP,SE.SEC.ENRR,103.14,1988,Europe & Central Asia,High income
+Spain,ESP,SE.SEC.ENRR,84.85,1980,Europe & Central Asia,High income
+Spain,ESP,SE.SEC.ENRR,106.09,1998,Europe & Central Asia,High income
+Spain,ESP,SE.SEC.ENRR,98.35,1986,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,22.46,1982,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,22.45,1978,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,85.55,2012,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,78.67,2010,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,44.11,1994,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,20.8,1979,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,28.55,1986,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,21.99,1980,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,73.73,2009,Europe & Central Asia,High income
+Spain,ESP,SE.TER.ENRR,26.13,1985,Europe & Central Asia,High income
+Spain,ESP,SE.ADT.LITR.ZS,98.25,2016,Europe & Central Asia,High income
+Spain,ESP,SE.XPD.TOTL.GD.ZS,2.34,1979,Europe & Central Asia,High income
+Spain,ESP,SE.XPD.TOTL.GD.ZS,4.43,2012,Europe & Central Asia,High income
+Spain,ESP,SE.XPD.TOTL.GD.ZS,3.57,1989,Europe & Central Asia,High income
+Spain,ESP,SE.XPD.TOTL.GD.ZS,4.12,2001,Europe & Central Asia,High income
+Spain,ESP,SE.XPD.TOTL.GD.ZS,3.85,1992,Europe & Central Asia,High income
+Spain,ESP,SE.XPD.TOTL.GD.ZS,2.08,1977,Europe & Central Asia,High income
+Sudan,SDN,SE.PRM.ENRR,67.74,2011,Sub-Saharan Africa,Lower middle income
+Sudan,SDN,SE.PRM.ENRR,58.18,2001,Sub-Saharan Africa,Lower middle income
+Sudan,SDN,SE.SEC.ENRR,42.7,2013,Sub-Saharan Africa,Lower middle income
+Sudan,SDN,SE.TER.ENRR,16.92,2013,Sub-Saharan Africa,Lower middle income
+Sudan,SDN,SE.TER.ENRR,14.98,2010,Sub-Saharan Africa,Lower middle income
+Sudan,SDN,SE.TER.ENRR,14.4,2008,Sub-Saharan Africa,Lower middle income
+Sudan,SDN,SE.TER.ENRR,8.58,2003,Sub-Saharan Africa,Lower middle income
+Sudan,SDN,SE.XPD.TOTL.GD.ZS,1.63,2004,Sub-Saharan Africa,Lower middle income
+Tonga,TON,SE.PRM.ENRR,113.6,1998,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.PRM.ENRR,120.12,1981,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.PRM.ENRR,97.97,1972,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.PRM.ENRR,112.65,1999,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.PRM.ENRR,116.83,1976,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.PRM.ENRR,118.29,1996,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.PRM.ENRR,118.51,1984,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.PRM.ENRR,108.06,2009,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.PRM.ENRR,108.34,2010,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.SEC.ENRR,101.51,2006,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.SEC.ENRR,86.58,1970,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.SEC.ENRR,105.6,2004,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.SEC.ENRR,86.07,1971,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.TER.ENRR,1.87,1979,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.ADT.LITR.ZS,98.91,1996,East Asia & Pacific,Lower middle income
+Tonga,TON,SE.XPD.TOTL.GD.ZS,4.53,2001,East Asia & Pacific,Lower middle income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,4.74,1975,East Asia & Pacific,High income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,4.12,1974,East Asia & Pacific,High income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,3.59,2014,East Asia & Pacific,High income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,3.46,1995,East Asia & Pacific,High income
+Japan,JPN,SE.XPD.TOTL.GD.ZS,5.67,1987,East Asia & Pacific,High income
+Kenya,KEN,SE.PRM.ENRR,119.88,1980,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,108.97,2015,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,97.41,2001,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,71.8,1973,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,116.13,2012,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,109.29,1975,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.PRM.ENRR,107.42,2004,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.SEC.ENRR,47.9,2005,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.TER.ENRR,0.95,1973,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.TER.ENRR,0.93,1980,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.ADT.LITR.ZS,82.23,2000,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.XPD.TOTL.GD.ZS,5.68,1982,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.XPD.TOTL.GD.ZS,7.36,2005,Sub-Saharan Africa,Lower middle income
+Kenya,KEN,SE.XPD.TOTL.GD.ZS,5.19,2000,Sub-Saharan Africa,Lower middle income
+Libya,LBY,SE.PRM.ENRR,112.41,1972,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.PRM.ENRR,112.52,1981,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.PRM.ENRR,109.56,2003,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.SEC.ENRR,69.59,1980,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.SEC.ENRR,58.37,1977,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.SEC.ENRR,67.07,1979,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.TER.ENRR,59.21,2002,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.TER.ENRR,15.18,1992,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.TER.ENRR,9.04,1983,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.TER.ENRR,6.16,1977,Middle East & North Africa,Upper middle income
+Libya,LBY,SE.TER.ENRR,6.43,1979,Middle East & North Africa,Upper middle income
+Malta,MLT,SE.PRM.ENRR,100.11,2013,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,98.74,2012,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,106.45,1990,Europe & Central Asia,High income
+Malta,MLT,SE.PRM.ENRR,96.12,2007,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,102.48,2005,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,98.61,2006,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,77.92,1986,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,81.23,1990,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,100.14,2008,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,85.15,1994,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,69.72,1978,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,78.73,1989,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,93.85,2012,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,89.75,2000,Europe & Central Asia,High income
+Malta,MLT,SE.SEC.ENRR,68.69,1981,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,39.78,2011,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,5.68,1986,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,4.73,1984,Europe & Central Asia,High income
+Malta,MLT,SE.TER.ENRR,8.35,1975,Europe & Central Asia,High income
+Malta,MLT,SE.ADT.LITR.ZS,87.87,1995,Europe & Central Asia,High income
+Malta,MLT,SE.XPD.TOTL.GD.ZS,3.92,1991,Europe & Central Asia,High income
+Malta,MLT,SE.XPD.TOTL.GD.ZS,3.83,1990,Europe & Central Asia,High income
+Nauru,NRU,SE.PRM.ENRR,87.86,2003,East Asia & Pacific,High income
+Nauru,NRU,SE.PRM.ENRR,104.99,2014,East Asia & Pacific,High income
+Nauru,NRU,SE.PRM.ENRR,92.96,2008,East Asia & Pacific,High income
+Nauru,NRU,SE.SEC.ENRR,63.62,2006,East Asia & Pacific,High income
+Nauru,NRU,SE.SEC.ENRR,44.66,2001,East Asia & Pacific,High income
+Nauru,NRU,SE.SEC.ENRR,53.54,2007,East Asia & Pacific,High income
+Angola,AGO,SE.PRM.ENRR,69.37,1992,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.PRM.ENRR,75.02,1985,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,8.13,1973,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,6.23,1971,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.SEC.ENRR,7.09,1972,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.TER.ENRR,2.95,2003,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.TER.ENRR,0.57,1991,Sub-Saharan Africa,Lower middle income
+Angola,AGO,SE.TER.ENRR,0.55,1989,Sub-Saharan Africa,Lower middle income
+Belize,BLZ,SE.PRM.ENRR,112.03,2013,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,113.1,1988,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,108.47,1977,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,112.4,2001,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,112.89,2004,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.PRM.ENRR,107.26,1976,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,76.03,2011,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,67.97,2000,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,74.84,2008,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.SEC.ENRR,74.44,2009,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.TER.ENRR,19.1,2008,Latin America & Caribbean,Upper middle income
+Belize,BLZ,SE.TER.ENRR,22.41,2009,Latin America & Caribbean,Upper middle income
+Bhutan,BTN,SE.PRM.ENRR,96.75,2016,South Asia,Lower middle income
+Bhutan,BTN,SE.PRM.ENRR,55.95,1988,South Asia,Lower middle income
+Bhutan,BTN,SE.PRM.ENRR,59.28,1994,South Asia,Lower middle income
+Bhutan,BTN,SE.PRM.ENRR,59.22,1984,South Asia,Lower middle income
+Bhutan,BTN,SE.PRM.ENRR,36.54,1979,South Asia,Lower middle income
+Bhutan,BTN,SE.PRM.ENRR,20.14,1970,South Asia,Lower middle income
+Bhutan,BTN,SE.PRM.ENRR,103.06,2008,South Asia,Lower middle income
+Bhutan,BTN,SE.SEC.ENRR,84.2,2014,South Asia,Lower middle income
+Bhutan,BTN,SE.SEC.ENRR,12.0,1984,South Asia,Lower middle income
+Bhutan,BTN,SE.SEC.ENRR,56.48,2008,South Asia,Lower middle income
+Bhutan,BTN,SE.SEC.ENRR,66.11,2010,South Asia,Lower middle income
