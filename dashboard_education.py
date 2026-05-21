@@ -55,9 +55,12 @@ section[data-testid="stSidebar"] {{
 section[data-testid="stSidebar"] label,
 section[data-testid="stSidebar"] p,
 section[data-testid="stSidebar"] span:not([data-baseweb]),
-section[data-testid="stSidebar"] .stMarkdown {{
+section[data-testid="stSidebar"] .stMarkdown,
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3 {{
     color: white !important;
-    font-weight: 500 !important;
+    font-weight: 600 !important;
 }}
 /* Box dropdown sidebar */
 section[data-testid="stSidebar"] div[data-baseweb="select"] > div:first-child {{
